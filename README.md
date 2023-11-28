@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS
 ## 🎓 Professional Profile
 
 - **Position:** PhD Student
-- **Affiliation:** ETIS (CY Cergy Paris Université - ENSEA - CNRS (UMR 8051))
+- **Affiliation:** [ETIS (CY Cergy Paris Université - ENSEA - CNRS (UMR 8051))](https://www.etis-lab.fr/)
 - **Team:** Neurocyber
 - **Research Focus:** Emotion modeling, Robotics and Neuroscience, Embodied Artificial Intelligence, Bio-inspired Robotics, Affective Cognition, Neurocybernetics
 - **Location:** Cergy, France
