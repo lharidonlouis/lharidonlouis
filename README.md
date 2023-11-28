@@ -1,16 +1,42 @@
-### Hi there 👋
+# Salut, je suis Louis L'Haridon 👋
 
-<!--
-**lharidonlouis/lharidonlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS, where I specialize in the fascinating intersection of robotics, neuroscience, and artificial intelligence. My research journey is centered around exploring the realms of emotion modeling, bio-inspired robotics, and neurocybernetics.
 
-Here are some ideas to get you started:
+## 🎓 Professional Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Position:** PhD Student
+- **Affiliation:** ETIS (CY Cergy Paris Université - ENSEA - CNRS (UMR 8051))
+- **Team:** Neurocyber
+- **Research Focus:** Emotion modeling, Robotics and Neuroscience, Embodied Artificial Intelligence, Bio-inspired Robotics, Affective Cognition, Neurocybernetics
+- **Location:** Cergy, France
+
+## 🌐 Contact Information
+
+- **Email:** louis.lharidon@cyu.fr
+- **Phone:** 0613079702
+
+## 🧠 Research Activities
+
+I am deeply engaged in understanding and modeling the complex relationship between pain and pleasure within the Motivation-Emotion-Cognition loop. My approach involves using robotics as both tools and models, contributing to the broader field of affective cognition and neurocybernetics.
+
+## 👨‍💻 Technical Skills
+
+- **Languages:** C, C++, Python, JavaScript
+- **Frameworks/Libraries:** React, Node.js
+- **Web Development:** HTML, CSS, Bootstrap
+- **Database Management:** SQL
+- **Other:** Unix, robotics
+
+## 📚 Teaching
+
+I am passionate about sharing knowledge and have experience teaching in the following areas:
+- C
+- Python
+- Algorithms
+- Shell Scripting
+
+## 💬 Social medias and profiles
+
+- **Google Scholar:** [View My Publications](https://scholar.google.com/citations?user=_UtqIesAAAAJ&hl=fr)
+- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/lharidonlouis/)
+- **Twitter:** [Follow Me](https://twitter.com/lharidonlouis)
