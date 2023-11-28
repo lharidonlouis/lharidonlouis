@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS
 
 ## 🌐 Contact Information
 
-- **Email:** louis.lharidon@cyu.fr
-- **Phone:** 0613079702
+- **Academic Email:** louis.lharidon@cyu.fr
 
 ## 🧠 Research Activities
 
