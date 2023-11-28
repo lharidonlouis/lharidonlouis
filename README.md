@@ -11,13 +11,21 @@ Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS
 - **Location:** Cergy, France
 - **Resume:** [See my resume](https://github.com/lharidonlouis/lharidonlouis/blob/main/cv_these.pdf)
 
-## 🌐 Contact Information
+## 💬 Contact, Social medias and profiles
 
 - **Academic Email:** louis.lharidon@cyu.fr
+- **Google Scholar:** [View My Publications](https://scholar.google.com/citations?user=_UtqIesAAAAJ&hl=fr)
+- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/lharidonlouis/)
+- **Twitter:** [Follow Me](https://twitter.com/lharidonlouis)
+
 
 ## 🧠 Research Activities
 
 I am deeply engaged in understanding and modeling the complex relationship between pain and pleasure within the Motivation-Emotion-Cognition loop. My approach involves using robotics as both tools and models, contributing to the broader field of affective cognition and neurocybernetics.
+
+## ✊ Numeric activism
+
+I am committed to helping progressives, social democrats and ecologists  in their quest for lasting societal transformation. I firmly believe that data and technology should serve the cause of justice and human progress. With this vision, I am developing tools and projects such as [VotAction](https://github.com/lharidonlouis/votaction), a platform designed to empower social justice and environmental activists in France, enabling them to deeply understand local data and win elections, polling station by polling station.
 
 ## 👨‍💻 Technical Skills
 
@@ -34,9 +42,3 @@ I am passionate about sharing knowledge and have experience teaching in the foll
 - Python
 - Algorithms
 - Shell Scripting
-
-## 💬 Social medias and profiles
-
-- **Google Scholar:** [View My Publications](https://scholar.google.com/citations?user=_UtqIesAAAAJ&hl=fr)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/lharidonlouis/)
-- **Twitter:** [Follow Me](https://twitter.com/lharidonlouis)
