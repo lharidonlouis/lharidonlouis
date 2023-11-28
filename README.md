@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS
 
 I am deeply engaged in understanding and modeling the complex relationship between pain and pleasure within the Motivation-Emotion-Cognition loop. My approach involves using robotics as both tools and models, contributing to the broader field of affective cognition and neurocybernetics.
 
-## ✊ Numeric activism
+## ✊ Projects for social and climatic justice 
 
 I am committed to helping progressives, social democrats and ecologists  in their quest for lasting societal transformation. I firmly believe that data and technology should serve the cause of justice and human progress. With this vision, I am developing tools and projects such as [VotAction](https://github.com/lharidonlouis/votaction), a platform designed to empower social justice and environmental activists in France, enabling them to deeply understand local data and win elections, polling station by polling station.
 
