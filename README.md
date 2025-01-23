@@ -1,10 +1,10 @@
 # Salut, je suis Louis L'Haridon 👋
 
-Welcome to my GitHub profile! I'm Louis, a dedicated Doctoral Researcher at ETIS, where I specialize in the fascinating intersection of robotics, neuroscience, and artificial intelligence. My research journey is centered around exploring the realms of emotion modeling, bio-inspired robotics, hormonal modulation of models and neurocybernetics.
+Welcome to my GitHub profile! I'm Dr. Louis L'Haridon , PostDoc researcher at ETIS, where I specialize in the fascinating intersection of robotics, neuroscience, and artificial intelligence. My research journey is centered around exploring the realms of emotion modeling, bio-inspired robotics, hormonal modulation of models and neurocybernetics.
 
 ## 🎓 Professional Profile
 
-- **Position:** PhD Student
+- **Position:** PostDoc researcher
 - **Affiliation:** [ETIS (CY Cergy Paris Université - ENSEA - CNRS (UMR 8051))](https://www.etis-lab.fr/)
 - **Team:** Neurocyber
 - **Research Focus:** Emotion modeling, Robotics and Neuroscience, Embodied Artificial Intelligence, Bio-inspired Robotics, Affective Cognition, Neurocybernetics
